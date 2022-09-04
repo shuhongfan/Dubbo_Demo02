@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9a0e63a7-cbc4-4acf-b1ea-0efb41d15a9a" name="变更" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/Dubbo_Demo02.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/代码/1. spring和springmvc整合后代码/dubbo-pro/dubbo-service/dubbo-service.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/代码/1. spring和springmvc整合后代码/dubbo-pro/dubbo-web/dubbo-web.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/代码/2. dubbo快速入门/dubbo-pro/dubbo-interface/dubbo-interface.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/代码/2. dubbo快速入门/dubbo-pro/dubbo-service/dubbo-service.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/代码/2. dubbo快速入门/dubbo-pro/dubbo-web/dubbo-web.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/代码/3. dubbo高级特性-序列化/dubbo-pro/dubbo-interface/dubbo-interface.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/代码/3. dubbo高级特性-序列化/dubbo-pro/dubbo-pojo/dubbo-pojo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/代码/3. dubbo高级特性-序列化/dubbo-pro/dubbo-service/dubbo-service.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/代码/3. dubbo高级特性-序列化/dubbo-pro/dubbo-web/dubbo-web.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/代码/4. 超时与重试/dubbo-pro/dubbo-interface/dubbo-interface.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/代码/4. 超时与重试/dubbo-pro/dubbo-pojo/dubbo-pojo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/代码/4. 超时与重试/dubbo-pro/dubbo-service/dubbo-service.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/代码/4. 超时与重试/dubbo-pro/dubbo-web/dubbo-web.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/代码/5. 多版本/dubbo-pro/dubbo-interface/dubbo-interface.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/代码/5. 多版本/dubbo-pro/dubbo-pojo/dubbo-pojo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/代码/5. 多版本/dubbo-pro/dubbo-service/dubbo-service.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/代码/5. 多版本/dubbo-pro/dubbo-web/dubbo-web.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/代码/6. 负载均衡/dubbo-pro/dubbo-interface/dubbo-interface.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/代码/6. 负载均衡/dubbo-pro/dubbo-pojo/dubbo-pojo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/代码/6. 负载均衡/dubbo-pro/dubbo-service/dubbo-service.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/代码/6. 负载均衡/dubbo-pro/dubbo-web/dubbo-web.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/代码/7. 集群容错/dubbo-pro/dubbo-interface/dubbo-interface.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/代码/7. 集群容错/dubbo-pro/dubbo-pojo/dubbo-pojo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/代码/7. 集群容错/dubbo-pro/dubbo-service/dubbo-service.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/代码/7. 集群容错/dubbo-pro/dubbo-web/dubbo-web.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2EIONKq0SFayzwqdxxGdipJR31i" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "File.Encoding",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="SshConsoleOptionsProvider">
+    <option name="myEncoding" value="UTF-8" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="9a0e63a7-cbc4-4acf-b1ea-0efb41d15a9a" name="变更" comment="" />
+      <created>1662279590152</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1662279590152</updated>
+      <workItem from="1662279591557" duration="2153000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

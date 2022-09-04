@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="dubbo-web (7)" />
+        <module name="dubbo-pojo (1)" />
+        <module name="dubbo-interface (4)" />
+        <module name="dubbo-pojo (3)" />
+        <module name="dubbo-interface (2)" />
+        <module name="dubbo-service (4)" />
+        <module name="dubbo-service (6)" />
+        <module name="dubbo-service (2)" />
+        <module name="dubbo-pojo" />
+        <module name="dubbo-web (2)" />
+        <module name="dubbo-web (6)" />
+        <module name="dubbo-web (4)" />
+        <module name="dubbo-pojo (2)" />
+        <module name="dubbo-pojo (4)" />
+        <module name="dubbo-interface (5)" />
+        <module name="dubbo-interface (3)" />
+        <module name="dubbo-service (5)" />
+        <module name="dubbo-service" />
+        <module name="dubbo-interface (1)" />
+        <module name="dubbo-service (1)" />
+        <module name="dubbo-interface" />
+        <module name="dubbo-service (3)" />
+        <module name="dubbo-web" />
+        <module name="dubbo-web (1)" />
+        <module name="dubbo-web (5)" />
+        <module name="dubbo-web (3)" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="dubbo-interface" target="1.5" />
+      <module name="dubbo-interface (1)" target="1.5" />
+      <module name="dubbo-interface (2)" target="1.5" />
+      <module name="dubbo-interface (3)" target="1.5" />
+      <module name="dubbo-interface (4)" target="1.5" />
+      <module name="dubbo-interface (5)" target="1.5" />
+      <module name="dubbo-pojo" target="1.5" />
+      <module name="dubbo-pojo (1)" target="1.5" />
+      <module name="dubbo-pojo (2)" target="1.5" />
+      <module name="dubbo-pojo (3)" target="1.5" />
+      <module name="dubbo-pojo (4)" target="1.5" />
+      <module name="dubbo-service" target="1.5" />
+      <module name="dubbo-service (1)" target="1.5" />
+      <module name="dubbo-service (2)" target="1.5" />
+      <module name="dubbo-service (3)" target="1.5" />
+      <module name="dubbo-service (4)" target="1.5" />
+      <module name="dubbo-service (5)" target="1.5" />
+      <module name="dubbo-service (6)" target="1.5" />
+      <module name="dubbo-web" target="1.5" />
+      <module name="dubbo-web (1)" target="1.5" />
+      <module name="dubbo-web (2)" target="1.5" />
+      <module name="dubbo-web (3)" target="1.5" />
+      <module name="dubbo-web (4)" target="1.5" />
+      <module name="dubbo-web (5)" target="1.5" />
+      <module name="dubbo-web (6)" target="1.5" />
+      <module name="dubbo-web (7)" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="dubbo-web (7):war">
+    <output-path>$PROJECT_DIR$/资料/配置文件/web-consumer/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>dubbo-web (7)</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="dubbo-web-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="dubbo-web (7):war exploded" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/代码/1. spring和springmvc整合后代码/dubbo-pro/dubbo-web" />
+    <file type="web" url="file://$PROJECT_DIR$/代码/2. dubbo快速入门/dubbo-pro/dubbo-service" />
+    <file type="web" url="file://$PROJECT_DIR$/代码/2. dubbo快速入门/dubbo-pro/dubbo-web" />
+    <file type="web" url="file://$PROJECT_DIR$/代码/3. dubbo高级特性-序列化/dubbo-pro/dubbo-service" />
+    <file type="web" url="file://$PROJECT_DIR$/代码/3. dubbo高级特性-序列化/dubbo-pro/dubbo-web" />
+    <file type="web" url="file://$PROJECT_DIR$/代码/4. 超时与重试/dubbo-pro/dubbo-service" />
+    <file type="web" url="file://$PROJECT_DIR$/代码/4. 超时与重试/dubbo-pro/dubbo-web" />
+    <file type="web" url="file://$PROJECT_DIR$/代码/5. 多版本/dubbo-pro/dubbo-service" />
+    <file type="web" url="file://$PROJECT_DIR$/代码/5. 多版本/dubbo-pro/dubbo-web" />
+    <file type="web" url="file://$PROJECT_DIR$/代码/6. 负载均衡/dubbo-pro/dubbo-service" />
+    <file type="web" url="file://$PROJECT_DIR$/代码/6. 负载均衡/dubbo-pro/dubbo-web" />
+    <file type="web" url="file://$PROJECT_DIR$/代码/7. 集群容错/dubbo-pro/dubbo-service" />
+    <file type="web" url="file://$PROJECT_DIR$/代码/7. 集群容错/dubbo-pro/dubbo-web" />
+    <file type="web" url="file://$PROJECT_DIR$/资料/配置文件/web-consumer" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/代码/5. 多版本/dubbo-pro/dubbo-web/pom.xml" />
+        <option value="$PROJECT_DIR$/代码/5. 多版本/dubbo-pro/dubbo-pojo/pom.xml" />
+        <option value="$PROJECT_DIR$/代码/5. 多版本/dubbo-pro/dubbo-service/pom.xml" />
+        <option value="$PROJECT_DIR$/代码/5. 多版本/dubbo-pro/dubbo-interface/pom.xml" />
+        <option value="$PROJECT_DIR$/代码/6. 负载均衡/dubbo-pro/dubbo-web/pom.xml" />
+        <option value="$PROJECT_DIR$/代码/6. 负载均衡/dubbo-pro/dubbo-pojo/pom.xml" />
+        <option value="$PROJECT_DIR$/代码/6. 负载均衡/dubbo-pro/dubbo-service/pom.xml" />
+        <option value="$PROJECT_DIR$/代码/6. 负载均衡/dubbo-pro/dubbo-interface/pom.xml" />
+        <option value="$PROJECT_DIR$/代码/7. 集群容错/dubbo-pro/dubbo-web/pom.xml" />
+        <option value="$PROJECT_DIR$/代码/7. 集群容错/dubbo-pro/dubbo-pojo/pom.xml" />
+        <option value="$PROJECT_DIR$/代码/7. 集群容错/dubbo-pro/dubbo-service/pom.xml" />
+        <option value="$PROJECT_DIR$/代码/7. 集群容错/dubbo-pro/dubbo-interface/pom.xml" />
+        <option value="$PROJECT_DIR$/代码/4. 超时与重试/dubbo-pro/dubbo-web/pom.xml" />
+        <option value="$PROJECT_DIR$/代码/4. 超时与重试/dubbo-pro/dubbo-pojo/pom.xml" />
+        <option value="$PROJECT_DIR$/代码/4. 超时与重试/dubbo-pro/dubbo-service/pom.xml" />
+        <option value="$PROJECT_DIR$/代码/4. 超时与重试/dubbo-pro/dubbo-interface/pom.xml" />
+        <option value="$PROJECT_DIR$/代码/2. dubbo快速入门/dubbo-pro/dubbo-web/pom.xml" />
+        <option value="$PROJECT_DIR$/代码/2. dubbo快速入门/dubbo-pro/dubbo-service/pom.xml" />
+        <option value="$PROJECT_DIR$/代码/2. dubbo快速入门/dubbo-pro/dubbo-interface/pom.xml" />
+        <option value="$PROJECT_DIR$/代码/3. dubbo高级特性-序列化/dubbo-pro/dubbo-web/pom.xml" />
+        <option value="$PROJECT_DIR$/代码/3. dubbo高级特性-序列化/dubbo-pro/dubbo-pojo/pom.xml" />
+        <option value="$PROJECT_DIR$/代码/3. dubbo高级特性-序列化/dubbo-pro/dubbo-service/pom.xml" />
+        <option value="$PROJECT_DIR$/代码/3. dubbo高级特性-序列化/dubbo-pro/dubbo-interface/pom.xml" />
+        <option value="$PROJECT_DIR$/代码/1. spring和springmvc整合后代码/dubbo-pro/dubbo-web/pom.xml" />
+        <option value="$PROJECT_DIR$/代码/1. spring和springmvc整合后代码/dubbo-pro/dubbo-service/pom.xml" />
+        <option value="$PROJECT_DIR$/资料/配置文件/web-consumer/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_18" default="true" project-jdk-name="18" project-jdk-type="JavaSDK" />
+  <component name="ProjectType">
+    <option name="id" value="jpab" />
+  </component>
+</project>

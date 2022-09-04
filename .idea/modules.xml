@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Dubbo_Demo02.iml" filepath="$PROJECT_DIR$/.idea/Dubbo_Demo02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/代码/5. 多版本/dubbo-pro/dubbo-interface/dubbo-interface.iml" filepath="$PROJECT_DIR$/代码/5. 多版本/dubbo-pro/dubbo-interface/dubbo-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/代码/6. 负载均衡/dubbo-pro/dubbo-interface/dubbo-interface (1).iml" filepath="$PROJECT_DIR$/代码/6. 负载均衡/dubbo-pro/dubbo-interface/dubbo-interface (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/代码/7. 集群容错/dubbo-pro/dubbo-interface/dubbo-interface (2).iml" filepath="$PROJECT_DIR$/代码/7. 集群容错/dubbo-pro/dubbo-interface/dubbo-interface (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/代码/4. 超时与重试/dubbo-pro/dubbo-interface/dubbo-interface (3).iml" filepath="$PROJECT_DIR$/代码/4. 超时与重试/dubbo-pro/dubbo-interface/dubbo-interface (3).iml" />
+      <module fileurl="file://$PROJECT_DIR$/代码/2. dubbo快速入门/dubbo-pro/dubbo-interface/dubbo-interface (4).iml" filepath="$PROJECT_DIR$/代码/2. dubbo快速入门/dubbo-pro/dubbo-interface/dubbo-interface (4).iml" />
+      <module fileurl="file://$PROJECT_DIR$/代码/3. dubbo高级特性-序列化/dubbo-pro/dubbo-interface/dubbo-interface (5).iml" filepath="$PROJECT_DIR$/代码/3. dubbo高级特性-序列化/dubbo-pro/dubbo-interface/dubbo-interface (5).iml" />
+      <module fileurl="file://$PROJECT_DIR$/代码/5. 多版本/dubbo-pro/dubbo-pojo/dubbo-pojo.iml" filepath="$PROJECT_DIR$/代码/5. 多版本/dubbo-pro/dubbo-pojo/dubbo-pojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/代码/6. 负载均衡/dubbo-pro/dubbo-pojo/dubbo-pojo (1).iml" filepath="$PROJECT_DIR$/代码/6. 负载均衡/dubbo-pro/dubbo-pojo/dubbo-pojo (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/代码/7. 集群容错/dubbo-pro/dubbo-pojo/dubbo-pojo (2).iml" filepath="$PROJECT_DIR$/代码/7. 集群容错/dubbo-pro/dubbo-pojo/dubbo-pojo (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/代码/4. 超时与重试/dubbo-pro/dubbo-pojo/dubbo-pojo (3).iml" filepath="$PROJECT_DIR$/代码/4. 超时与重试/dubbo-pro/dubbo-pojo/dubbo-pojo (3).iml" />
+      <module fileurl="file://$PROJECT_DIR$/代码/3. dubbo高级特性-序列化/dubbo-pro/dubbo-pojo/dubbo-pojo (4).iml" filepath="$PROJECT_DIR$/代码/3. dubbo高级特性-序列化/dubbo-pro/dubbo-pojo/dubbo-pojo (4).iml" />
+      <module fileurl="file://$PROJECT_DIR$/代码/5. 多版本/dubbo-pro/dubbo-service/dubbo-service.iml" filepath="$PROJECT_DIR$/代码/5. 多版本/dubbo-pro/dubbo-service/dubbo-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/代码/6. 负载均衡/dubbo-pro/dubbo-service/dubbo-service (1).iml" filepath="$PROJECT_DIR$/代码/6. 负载均衡/dubbo-pro/dubbo-service/dubbo-service (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/代码/7. 集群容错/dubbo-pro/dubbo-service/dubbo-service (2).iml" filepath="$PROJECT_DIR$/代码/7. 集群容错/dubbo-pro/dubbo-service/dubbo-service (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/代码/4. 超时与重试/dubbo-pro/dubbo-service/dubbo-service (3).iml" filepath="$PROJECT_DIR$/代码/4. 超时与重试/dubbo-pro/dubbo-service/dubbo-service (3).iml" />
+      <module fileurl="file://$PROJECT_DIR$/代码/2. dubbo快速入门/dubbo-pro/dubbo-service/dubbo-service (4).iml" filepath="$PROJECT_DIR$/代码/2. dubbo快速入门/dubbo-pro/dubbo-service/dubbo-service (4).iml" />
+      <module fileurl="file://$PROJECT_DIR$/代码/3. dubbo高级特性-序列化/dubbo-pro/dubbo-service/dubbo-service (5).iml" filepath="$PROJECT_DIR$/代码/3. dubbo高级特性-序列化/dubbo-pro/dubbo-service/dubbo-service (5).iml" />
+      <module fileurl="file://$PROJECT_DIR$/代码/1. spring和springmvc整合后代码/dubbo-pro/dubbo-service/dubbo-service (6).iml" filepath="$PROJECT_DIR$/代码/1. spring和springmvc整合后代码/dubbo-pro/dubbo-service/dubbo-service (6).iml" />
+      <module fileurl="file://$PROJECT_DIR$/代码/5. 多版本/dubbo-pro/dubbo-web/dubbo-web.iml" filepath="$PROJECT_DIR$/代码/5. 多版本/dubbo-pro/dubbo-web/dubbo-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/代码/6. 负载均衡/dubbo-pro/dubbo-web/dubbo-web (1).iml" filepath="$PROJECT_DIR$/代码/6. 负载均衡/dubbo-pro/dubbo-web/dubbo-web (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/代码/7. 集群容错/dubbo-pro/dubbo-web/dubbo-web (2).iml" filepath="$PROJECT_DIR$/代码/7. 集群容错/dubbo-pro/dubbo-web/dubbo-web (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/代码/4. 超时与重试/dubbo-pro/dubbo-web/dubbo-web (3).iml" filepath="$PROJECT_DIR$/代码/4. 超时与重试/dubbo-pro/dubbo-web/dubbo-web (3).iml" />
+      <module fileurl="file://$PROJECT_DIR$/代码/2. dubbo快速入门/dubbo-pro/dubbo-web/dubbo-web (4).iml" filepath="$PROJECT_DIR$/代码/2. dubbo快速入门/dubbo-pro/dubbo-web/dubbo-web (4).iml" />
+      <module fileurl="file://$PROJECT_DIR$/代码/3. dubbo高级特性-序列化/dubbo-pro/dubbo-web/dubbo-web (5).iml" filepath="$PROJECT_DIR$/代码/3. dubbo高级特性-序列化/dubbo-pro/dubbo-web/dubbo-web (5).iml" />
+      <module fileurl="file://$PROJECT_DIR$/代码/1. spring和springmvc整合后代码/dubbo-pro/dubbo-web/dubbo-web (6).iml" filepath="$PROJECT_DIR$/代码/1. spring和springmvc整合后代码/dubbo-pro/dubbo-web/dubbo-web (6).iml" />
+      <module fileurl="file://$PROJECT_DIR$/资料/配置文件/web-consumer/dubbo-web (7).iml" filepath="$PROJECT_DIR$/资料/配置文件/web-consumer/dubbo-web (7).iml" />
+    </modules>
+  </component>
+</project>
